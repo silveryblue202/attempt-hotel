@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+    <title>This Is Only The Beginning </title>
+  <body>
+<div class="everything">
+<h1 class = 'headings'>Guest</h1>
+  <div class='registration'>
+      <h1>Register a Room</h1>
+      <p class='description'>
+      <div class='buttons'>
+        <div class='guest-button'>Register</div>
+    </div>
+    </div>
+    
+ <div class='guest'>
+  <h1 class = 'headings'>Suites</h1>
+  <div class='suites'>
+      <h1>Register a Suite</h1>
+      <p class='description'>
+      <div class='buttons'>
+        <div class='suite-button'>Register</div>
+        </div>
+        <div class = 'non' id = 'nonsuite'>
+</div>
+    </div>
+
+    <h1 class = 'headings'>Family Rooms</h1>
+    <div class='families'>
+        <h1>Register a family room</h1>
+        <p class='descriptionab'>
+        <div class='buttons'>
+          <div class='family-button'>Register</div>
+          </div>
+          <div class = 'non' id = 'nonfamily'>
+  <div id="pricefamily"></div>
+</div>
+      </div>
+      </div>
+      <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
+      </div>
+      </body>
+
